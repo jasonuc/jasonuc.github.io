@@ -23,7 +23,16 @@ p {
     position: relative;
     top: 41vh;
     text-align: center;
-    color: rgba(255, 255, 255, 0.559);
+    color: rgba(255, 255, 255, 0.401);
+}
+
+#sign {
+    font-size: xx-small;
+    opacity: 0.2;
+    font-weight: 100;
+    font-style: italic;
+    position: relative;
+    top: 10px;
 }
 
 #footer-div {
